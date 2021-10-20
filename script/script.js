@@ -40,3 +40,10 @@ for (const key in distancia){
         console.log('No se encontro la distancia')
     }
 }
+
+let enviarBtn = document.querySelector('#btn_enviar_evaluacion');
+
+enviarBtn.addEventListener(e => {
+    alert('le diste a enviar Gg');
+    e.preventDefault();
+})
