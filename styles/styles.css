@@ -26,4 +26,9 @@ table{
 h1{
     text-align: center;
     margin-top:50px;
+    color: black;
+    border-radius:50%;
+}
+.botom{
+    width:200px ;
 }
