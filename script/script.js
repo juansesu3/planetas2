@@ -45,5 +45,7 @@ let enviarBtn = document.querySelector('#btn_enviar_evaluacion');
 
 enviarBtn.addEventListener(e => {
     alert('le diste a enviar Gg');
+    let x = 1;
+    let y = 1;
     e.preventDefault();
 })
