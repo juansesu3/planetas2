@@ -16,7 +16,7 @@ body{
     height: 100vh;
 }
 table{
-    margin-top: 1em;
+    margin-top: 50px;
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -25,6 +25,11 @@ table{
 }
 h1{
     text-align: center;
-    margin-top:4rem;
-    color: #e4e;
+    margin-top: 50px;
+}
+
+.boton {
+    padding: 2rem;
+    display: flex;
+    border: none;
 }
